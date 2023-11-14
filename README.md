@@ -43,4 +43,4 @@ npm run dev
 # Start development!
 ```
 
-Note: Online extra features (Such as seeing who is online or adding friends) are not available.
+Note: Online extra features (Such as seeing who is online or adding friends) are not available.(Maybe in the future)
