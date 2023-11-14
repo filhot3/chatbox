@@ -4,7 +4,7 @@
 
 **CHATBOX** is an open-source, online, web-based chat room. You can talk randomly
 about thousands topics (See:
-[Introduction to BMS](https://www.youtube.com/watch?v=Guv1vRAKanY)).
+[Online Demo](https://www.youtube.com/watch?v=Guv1vRAKanY)).
 
 It is recommended to use it on EDGE or CHROME.
 
